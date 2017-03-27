@@ -23,13 +23,13 @@
             "width": "80",
             "height": "80"
           },
-          "url": "http://i.imgur.com/Aqyijbl.png"
+          "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_open.png"
         }
       },
       "layers": [
         {
           "type": "image",
-          "url": "http://imgur.com/a/3hagD",
+          "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_open.png",
           "style": {
             "width": "5",
             "height": "200",
@@ -47,7 +47,7 @@
               "components": [
                 {
                   "type": "image",
-                  "url": "http://i.imgur.com/Aqyijbl.png",
+                  "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_mild.png",
                   "style": {
                     "width": "100",
                     "height": "100",
