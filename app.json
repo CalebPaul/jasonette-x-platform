@@ -26,26 +26,11 @@
           "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_open.png"
         }
       },
-      "layers": [
-        {
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_open.png",
-          "style": {
-            "width": "5",
-            "height": "200",
-            "corner_radius": "5",
-            "bottom": "10",
-            "right": "10"
-          }
-        }
-      ],
       "sections": [
         {
-          "items": [
-            {
+          "items": [{
               "type": "horizontal",
-              "components": [
-                {
+              "components": [{
                   "type": "image",
                   "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_mild.png",
                   "style": {
@@ -64,8 +49,7 @@
             },
             {
               "type": "vertical",
-              "components": [
-                {
+              "components": [{
                   "type": "image",
                   "url": "http://i.imgur.com/sMRChIF.jpg"
                 },
@@ -87,6 +71,63 @@
                   "text": "Web"
                 }
               ]
+            }, {
+              "type": "horizontal",
+              "components": [{
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/thumbs.png",
+                "style": {
+                  "width": "80"
+                }
+              }, {
+                "type": "vertical",
+                "components": [{
+                  "type": "label",
+                  "text": "Skills",
+                  "class": "section_heading"
+                }, {
+                  "type": "label",
+                  "text": "Tools/Frameworks"
+                }]
+              }]
+            }, {
+              "type": "horizontal",
+              "components": [{
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/smile_teeth.png",
+                "style": {
+                  "width": "80"
+                }
+              }, {
+                "type": "vertical",
+                "components": [{
+                  "type": "label",
+                  "text": "Experience",
+                  "class": "section_heading"
+                }, {
+                  "type": "label",
+                  "text": "Tools/Frameworks"
+                }]
+              }]
+            }, {
+              "type": "horizontal",
+              "components": [{
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/CalebPaul/jasonette-x-platform/master/img/cartoon-caleb/idea.png",
+                "style": {
+                  "width": "80"
+                }
+              }, {
+                "type": "vertical",
+                "components": [{
+                  "type": "label",
+                  "text": "Education",
+                  "class": "section_heading"
+                }, {
+                  "type": "label",
+                  "text": "Tools/Frameworks"
+                }]
+              }]
             }
           ]
         }
